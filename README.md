@@ -1,0 +1,2 @@
+# mIRC-Twitch-Bot
+This is my first project that I ever worked on and wrote. I worked on this sophmore/junior year of high school in mIRC. It is a twitch.tv IRC bot that allowed elevated users to make chat commands, blacklist words to timeout people if they said them, kept track of emote usage in the channel for analytics, and also had a token system where if users watched the stream for long enough they would earn virtual tokens which would be used in contests and giveaways and such. It was never 100% finished but all of the above (I believe) worked.

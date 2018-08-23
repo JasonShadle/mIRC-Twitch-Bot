@@ -21,9 +21,6 @@
 !console
 !balance
 !lfg
-!BrutalSex
-!hardcoresex
-!HardSex
 !banter
 !uptimw
 !gettinstarted
@@ -59,7 +56,6 @@
 !yt
 !break
 !xutr
-!killmennow
 !spec
 !
 !schedule
