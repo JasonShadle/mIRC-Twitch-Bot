@@ -1,0 +1,10 @@
+!xur
+!song
+!spotify
+!uptime
+!lfg
+!100io
+!viewers
+!title
+!hug
+!multi
